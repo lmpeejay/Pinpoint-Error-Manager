@@ -3,8 +3,8 @@ A library for debugging complex JavaScript web apps
 
 /* 
 
-Pinpoint Error Manager is new framework/library for debugging JavaScript Web Applications You simply add this library to your source code and it bisplays javascript bugs 
-in a simple, easy to undrstand interface.
+Pinpoint Error Manager is new framework/library for debugging JavaScript Web Applications You simply add this library to your source code and it displays javascript bugs 
+in a simple, easy to understand interface.
 
 Copyright 2020 by PJ Dahill
 
